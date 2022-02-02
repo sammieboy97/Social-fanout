@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Yo yo Its working!!! <code>pages/index.js</code>
+push is also daw!          Yo yo Its working!!! <code>pages/index.js</code>
         </p>
       </main>
 
